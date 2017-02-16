@@ -12,14 +12,14 @@ Cерверное standalone приложение.
 Дамп базы данных находится в корневом каталоге приложения в папке DB
 
 Технологии:
-Java 8
-Maven
-Spring MVC
-Spring Security
-Hibernate
-MySQL
-Apache Tomcat
-REST API
-Log4j
-HTML/css
-IntelliJ IDEA
+Java 8,
+Maven,
+Spring MVC,
+Spring Security,
+Hibernate,
+MySQL,
+Apache Tomcat,
+REST API,
+Log4j,
+HTML/css,
+IntelliJ IDEA.
